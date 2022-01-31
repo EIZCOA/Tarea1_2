@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tarea1_2.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Ejericio 1.2 | PGMII - UTH" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Nombre" FontSize="Title" Padding="30,10,30,10"/>
+
+        <Entry x:Name="edtnombre" Keyboard="Plain" Placeholder="Ingresa tu nombre" VerticalOptions="Center"/>
+
+        <Label Text="Apellidos" FontSize="Title" Padding="30,10,30,10"/>
+
+        <Entry x:Name="edtapellido" Keyboard="Plain" Placeholder="Ingresa tus apellidos" VerticalOptions="Center"/>
+
+        <Label Text="Edad" FontSize="Title" Padding="30,10,30,10"/>
+
+        <Entry x:Name="edtedad" Keyboard="Numeric" Placeholder="Ingresa tu edad" VerticalOptions="Center"/>
+
+        <Label Text="Correo Electronico" FontSize="Title" Padding="30,10,30,10"/>
+
+        <Entry x:Name="edtemail" Keyboard="Email" Placeholder="Ingresa un correo electronico" VerticalOptions="Center"/>
+
+        <Button x:Name="btnsendinfo" Text="Enviar información" Font="Large" BorderWidth="1" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Clicked="Button_Clicked" />
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\bin\Debug\netstandard2.0\Tarea1_2.deps.json
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\bin\Debug\netstandard2.0\Tarea1_2.dll
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\bin\Debug\netstandard2.0\ref\Tarea1_2.dll
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\bin\Debug\netstandard2.0\Tarea1_2.pdb
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\Tarea1_2.csproj.AssemblyReference.cache
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\Tarea1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\Contacto.xaml.g.cs
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\Tarea1_2.AssemblyInfoInputs.cache
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\Tarea1_2.AssemblyInfo.cs
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\Tarea1_2.csproj.CoreCompileInputs.cache
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\Tarea1_2.dll
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\ref\Tarea1_2.dll
+C:\Users\fiscoa\source\repos\Tarea1_2\Tarea1_2\Tarea1_2\obj\Debug\netstandard2.0\Tarea1_2.pdb
